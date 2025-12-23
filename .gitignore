@@ -18,9 +18,8 @@ Thumbs.db
 npm-debug.log*
 
 # Environment
-.env
-.env.local
 
 # Temporary files
 *.tmp
 *.swp
+config.bat
